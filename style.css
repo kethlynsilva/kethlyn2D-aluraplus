@@ -4,5 +4,6 @@
    color: beige;
    border-radius: 10px;
    text-align: center;
-   text-decoration: pink;
+   text-decoration: none;
+   padding: 10px;
 }
