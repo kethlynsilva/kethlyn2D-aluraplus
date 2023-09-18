@@ -7,3 +7,12 @@
    text-decoration: none;
    padding: 10px;
 }
+
+body{
+   text-align: center;
+} 
+
+.titulo{ 
+   color: pink;
+
+}
